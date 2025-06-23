@@ -65,7 +65,7 @@ If you followed the example above, you should see the following in VR:
 
 Tips
 ---
-
+n
 - To see `print` messages on Windows, drag and drop the project onto `lovrc.bat` instead of
   `lovr.exe`, or specify the `--console` flag when running on the command line.
 - If you have the headset module disabled, be sure to set the y value of the cube to 0 instead of
